@@ -4,6 +4,9 @@ import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * lgl
+ */
 @SpringBootApplication
 @MapperScan("com.mooc.sb2.mapper")
 public class Sb2Application {
